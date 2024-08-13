@@ -94,4 +94,4 @@ now that we have set up all dependencies we can run our application. Before you 
 npm run dev
 ```
 
-After 30 sec please open url `localhost:3000/` on your browser. This should open `About` page.
+After 30 sec please open url `localhost:3000/` on your browser. This should open `About` page. Terminal will be attached to running application. Please use another instance of terminal for any other needs. Once you done working for today to kill running application please click `CMD` + `C` for MAC or `CTRL` + `C` for Windows or Linux on this terminal.
