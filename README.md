@@ -87,10 +87,10 @@ Token will be saved in cookies and will be automatically available for next API 
 
 3. Get records for user by query parameters
 
-**GET** `http://localhost/api/record/user`. Query params:
+**GET** `http://localhost/api/record/user`. At least one query params should be used. Query params in use order:
 
-- id: number
 - email: string, email format
+- id: number
 
 ## License
 
