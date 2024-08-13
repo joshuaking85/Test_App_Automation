@@ -11,7 +11,7 @@ Please follow instructions. If you encounter any issues please don't hesitate to
 - [Install dependencies](#install-dependencies)
 - [Sync Database](#sync-database)
 - [Run application](#run-application)
-- [back to interview instruction](README.md)
+- [back to interview instruction](../README.md)
 
 ## Run Postgres Container
 
@@ -97,4 +97,4 @@ npm run dev
 
 After 30 sec please open url `localhost:3000/` on your browser. This should open `About` page. Terminal will be attached to running application. Please use another instance of terminal for any other needs. Once you done working for today to kill running application please click `CMD` + `C` for MAC or `CTRL` + `C` for Windows or Linux on this terminal.
 
-[back to interview instruction](README.md)
+[back to interview instruction](../README.md)
