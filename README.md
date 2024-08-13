@@ -35,7 +35,7 @@ Please deploy application by following [local deployment instructions](my_suppor
 
 [Content](#content)
 
-Please have your test automation framework setup using next software:
+If your recruiter asks you to present automation framework on Java language, then please have your test automation framework setup using next software:
 
 - IntelliJ IDE
 - Java
@@ -46,6 +46,8 @@ Please have your test automation framework setup using next software:
 - JDBC
 - Cucumber HTML Reporting (optional)
 - Any screenshot taking library/dependency (optional)
+
+Otherwise please review with your recruiter on language that should be used in this challenge.
 
 ## 4 Create Automated tests
 
