@@ -1,6 +1,6 @@
 # Census App for QA testing
 
-Thin is fullstack application for QA testers training. It has nothing to do with real Census project. Sole intention for this application is to facilitate QA testing for all 3 layers: UI, API, Database. When creating new demographic records please don't use any PII (Personal Identifiable Information) rathe please create records of unreal people. Good practice for QA environment when creating dummy data is to utilize `FAKE` word in first and last names and emails.
+This is a full stack QA Testing Challenge. It has nothing to do with real Census project. Sole intention for this application is to facilitate QA testing for all 3 layers: UI, API, Database. When creating new demographic records please don't use any PII (Personal Identifiable Information) rather please create records of unreal people. Good practice for QA environment when creating dummy data is to utilize `FAKE` word in first and last names and emails.
 
 ## Interview instructions
 
