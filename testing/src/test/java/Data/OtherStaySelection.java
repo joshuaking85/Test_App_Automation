@@ -1,0 +1,13 @@
+package Data;
+
+public enum OtherStaySelection {
+    NO,
+    COLLEGE,
+    MILITARY_ASSIGNMENT,
+    JOB_OR_BUSINESS,
+    NURSING_HOME,
+    WITH_PARENT_OR_OTHER_RELATIVE,
+    SEASONAL_OR_SECOND_RESIDENT,
+    JAIL_OR_PRISON,
+    OTHER;
+}
