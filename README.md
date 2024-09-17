@@ -1,6 +1,6 @@
 # Disclaimer
 The code for the application itself was generated but the lead developers from the company. I do not own the rights to that code nor did I contribute 
-to the code in anyway. I have updated this README file for the sole purposes of including only the details of the E2E testing. However the original 
+to the code in anyway. I have updated this README file for the sole purpose of including only the details of the E2E testing. However the original 
 README details can be found in the Dev_readme.md file.
 
 # QA testing
